@@ -92,9 +92,9 @@ class MyGui:
 
         # List of student encodings
         for student in all_student_names:
-            student_image = face_recognition.load_image_file('./img/known/{}.jpg'.format(student))
+            student_image = face_recognition.load_image_file('known/{}.jpg'.format(student))
             all_student_encodings.append(face_recognition.face_encodings(student_image)[0])
-            all_student_images.append('./img/known/{}.jpg'.format(student))
+            all_student_images.append('known/{}.jpg'.format(student))
 
         found_names = []
 
