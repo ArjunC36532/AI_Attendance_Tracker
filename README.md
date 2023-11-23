@@ -1,7 +1,7 @@
 Overview
 This desktop application provides a simple and efficient solution for teachers to track student attendance using a webcam. The system allows teachers to upload student names and portraits for recognition. Students can then look at the camera upon entering, and the app records their attendance. With just one click, teachers can generate a spreadsheet for easy attendance management.
 
-Demo
+
 Watch the demo here: https://youtu.be/sgtMOw6ba80
 
 Getting Started
