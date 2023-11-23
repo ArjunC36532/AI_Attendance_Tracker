@@ -1,10 +1,34 @@
-Desktop app for teachers: Track student attendance using webcam. Upload student names & portraits for recognition. Students look at the camera upon entering; app records attendance. One-click generates a spreadsheet for teachers to use. Simple and efficient attendance management.
+Overview
+This desktop application provides a simple and efficient solution for teachers to track student attendance using a webcam. The system allows teachers to upload student names and portraits for recognition. Students can then look at the camera upon entering, and the app records their attendance. With just one click, teachers can generate a spreadsheet for easy attendance management.
 
-Demo: https://www.youtube.com/watch?v=sgtMOw6ba80
+Demo
+Watch the demo here.
 
-If you would like to use this interface, clone this repository to your PC. Run the "main.py" file to start the app. DO NOT TAMPER WITH INTERNAL FILES OR YOU MAY CAUSE ISSUES. 
+Getting Started
+To use this interface, follow these steps:
 
-Unfortunately for the time-being, only jpg/jpeg files are supported for student portraits being uploaded to the system. 
+Clone this repository to your PC.
+Run the "main.py" file to start the app.
+Important: Do not tamper with internal files to avoid potential issues.
+Note: Currently, only jpg/jpeg files are supported for student portraits.
 
+How to Use
+Upload Student Information:
 
-I hope you find this useful!
+Provide a list of student names and their corresponding portraits for recognition.
+Attendance Tracking:
+
+Students look at the camera upon entering.
+The app records attendance automatically.
+Generate Spreadsheet:
+
+With one click, generate a spreadsheet for easy attendance management.
+Usage Tips
+Ensure that student portraits are in jpg/jpeg format for proper recognition.
+Avoid tampering with internal files to prevent issues with the application.
+Contributing
+If you'd like to contribute to the development of this project, please follow the standard GitHub flow:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make changes and submit a pull request.
