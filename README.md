@@ -57,4 +57,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 We hope you find this attendance tracking solution valuable! For issues or suggestions, open an [issue](https://github.com/your-repository/issues) or submit a [pull request](https://github.com/your-repository/pulls).
 
-Happy teaching! 🎉
+
